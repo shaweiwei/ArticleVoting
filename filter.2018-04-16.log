@@ -1,0 +1,14 @@
+2018-04-16 08:45:34.676 [main] INFO  com.av.ArticleVotingApplication - Starting ArticleVotingApplication on Lenovo-PC with PID 15024 (started by ko in C:\Users\ko\Workspaces\spring tool suite\ArticleVoting)
+2018-04-16 08:45:34.792 [main] INFO  com.av.ArticleVotingApplication - No active profile set, falling back to default profiles: default
+2018-04-16 08:45:38.791 [main] INFO  com.av.config.RedisConfig - JedisConnectionFactory bean init success...
+2018-04-16 08:45:40.642 [main] INFO  com.av.config.RedisConfig - 127.0.0.1,localhost,1
+2018-04-16 08:45:40.642 [main] INFO  com.av.config.RedisConfig - test123,test123
+2018-04-16 08:45:40.661 [main] INFO  com.av.config.RedisConfig - MaxIdle:8
+2018-04-16 08:45:43.926 [main] INFO  com.av.ArticleVotingApplication - Started ArticleVotingApplication in 9.835 seconds (JVM running for 12.882)
+2018-04-16 09:18:09.389 [main] INFO  com.av.ArticleVotingApplication - Starting ArticleVotingApplication on Lenovo-PC with PID 7264 (started by ko in C:\Users\ko\Workspaces\spring tool suite\ArticleVoting)
+2018-04-16 09:18:09.399 [main] INFO  com.av.ArticleVotingApplication - No active profile set, falling back to default profiles: default
+2018-04-16 09:18:13.419 [main] INFO  com.av.config.RedisConfig - JedisConnectionFactory bean init success...
+2018-04-16 09:18:15.343 [main] INFO  com.av.config.RedisConfig - 127.0.0.1,localhost,1
+2018-04-16 09:18:15.344 [main] INFO  com.av.config.RedisConfig - test123,test123
+2018-04-16 09:18:15.344 [main] INFO  com.av.config.RedisConfig - MaxIdle:8
+2018-04-16 09:18:18.755 [main] INFO  com.av.ArticleVotingApplication - Started ArticleVotingApplication in 9.962 seconds (JVM running for 12.297)

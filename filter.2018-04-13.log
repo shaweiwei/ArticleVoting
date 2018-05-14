@@ -1,0 +1,709 @@
+2018-04-13 16:17:05.117 [main] INFO  com.av.ArticleVotingApplication - Starting ArticleVotingApplication on Lenovo-PC with PID 8592 (started by ko in C:\Users\ko\Workspaces\spring tool suite\ArticleVoting)
+2018-04-13 16:17:05.117 [main] INFO  com.av.ArticleVotingApplication - No active profile set, falling back to default profiles: default
+2018-04-13 16:17:08.893 [main] INFO  com.av.config.RedisConfig - JedisConnectionFactory bean init success...
+2018-04-13 16:17:10.783 [main] INFO  com.av.config.RedisConfig - 127.0.0.1,localhost,1
+2018-04-13 16:17:10.783 [main] INFO  com.av.config.RedisConfig - test123,test123
+2018-04-13 16:17:10.783 [main] INFO  com.av.config.RedisConfig - MaxIdle:8
+2018-04-13 16:17:13.591 [main] INFO  com.av.ArticleVotingApplication - Started ArticleVotingApplication in 9.019 seconds (JVM running for 10.417)
+2018-04-13 16:17:17.252 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:0
+2018-04-13 16:17:17.487 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 1 data
+2018-04-13 16:17:17.705 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 2 data
+2018-04-13 16:17:17.908 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 3 data
+2018-04-13 16:17:18.112 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 4 data
+2018-04-13 16:17:18.299 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"8ab51faa5496
+2018-04-13 16:17:18.315 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 5 data
+2018-04-13 16:17:18.518 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 6 data
+2018-04-13 16:17:18.721 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 7 data
+2018-04-13 16:17:18.925 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 8 data
+2018-04-13 16:17:19.128 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 9 data
+2018-04-13 16:17:19.300 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"b26179c13452
+2018-04-13 16:17:19.331 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 10 data
+2018-04-13 16:17:19.534 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 11 data
+2018-04-13 16:17:19.737 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 12 data
+2018-04-13 16:17:19.940 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 13 data
+2018-04-13 16:17:20.143 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 14 data
+2018-04-13 16:17:20.253 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:12
+2018-04-13 16:17:20.300 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"ff4d1bb741ea
+2018-04-13 16:17:20.347 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 15 data
+2018-04-13 16:17:20.550 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 16 data
+2018-04-13 16:17:20.753 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 17 data
+2018-04-13 16:17:20.956 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 18 data
+2018-04-13 16:17:21.159 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 19 data
+2018-04-13 16:17:21.300 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"21dbc4774341
+2018-04-13 16:17:21.362 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 20 data
+2018-04-13 16:17:21.565 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 21 data
+2018-04-13 16:17:21.769 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 22 data
+2018-04-13 16:17:21.972 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 23 data
+2018-04-13 16:17:22.175 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 24 data
+2018-04-13 16:17:22.300 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"eaee4f20f84d
+2018-04-13 16:17:22.378 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 25 data
+2018-04-13 16:17:22.581 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 26 data
+2018-04-13 16:17:22.784 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 27 data
+2018-04-13 16:17:22.988 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 28 data
+2018-04-13 16:17:23.191 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 29 data
+2018-04-13 16:17:23.254 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:24
+2018-04-13 16:17:23.301 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"9f66e19e6ab5
+2018-04-13 16:17:23.394 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 30 data
+2018-04-13 16:17:23.598 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 31 data
+2018-04-13 16:17:23.801 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 32 data
+2018-04-13 16:17:24.004 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 33 data
+2018-04-13 16:17:24.207 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 34 data
+2018-04-13 16:17:24.301 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"0b3d63f3853a
+2018-04-13 16:17:24.410 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 35 data
+2018-04-13 16:17:24.614 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 36 data
+2018-04-13 16:17:24.817 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 37 data
+2018-04-13 16:17:25.020 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 38 data
+2018-04-13 16:17:25.223 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 39 data
+2018-04-13 16:17:25.301 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"dc32c7efc5e2
+2018-04-13 16:17:25.426 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 40 data
+2018-04-13 16:17:25.630 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 41 data
+2018-04-13 16:17:25.833 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 42 data
+2018-04-13 16:17:26.036 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 43 data
+2018-04-13 16:17:26.239 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 44 data
+2018-04-13 16:17:26.255 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:36
+2018-04-13 16:17:26.301 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"8c8ae3254af0
+2018-04-13 16:17:26.442 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 45 data
+2018-04-13 16:17:26.647 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 46 data
+2018-04-13 16:17:26.858 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 47 data
+2018-04-13 16:17:27.061 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 48 data
+2018-04-13 16:17:27.264 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 49 data
+2018-04-13 16:17:27.311 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"d8648de715b2
+2018-04-13 16:17:27.467 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 50 data
+2018-04-13 16:17:27.671 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 51 data
+2018-04-13 16:17:27.671 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push exception: null
+2018-04-13 16:17:27.877 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 52 data
+2018-04-13 16:17:28.080 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 53 data
+2018-04-13 16:17:28.283 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 54 data
+2018-04-13 16:17:28.314 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"e7e7831a52a0
+2018-04-13 16:17:28.486 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 55 data
+2018-04-13 16:17:28.689 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 56 data
+2018-04-13 16:17:28.893 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 57 data
+2018-04-13 16:17:29.096 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 58 data
+2018-04-13 16:17:29.268 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:47
+2018-04-13 16:17:29.299 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 59 data
+2018-04-13 16:17:29.315 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"f73ac1a75f90
+2018-04-13 16:17:29.502 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 60 data
+2018-04-13 16:17:29.705 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 61 data
+2018-04-13 16:17:29.912 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 62 data
+2018-04-13 16:17:30.115 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 63 data
+2018-04-13 16:17:30.318 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"1fa219e7d46d
+2018-04-13 16:17:30.318 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 64 data
+2018-04-13 16:17:30.521 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 65 data
+2018-04-13 16:17:30.725 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 66 data
+2018-04-13 16:17:30.928 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 67 data
+2018-04-13 16:17:31.131 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 68 data
+2018-04-13 16:17:31.318 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"32b071742a71
+2018-04-13 16:17:31.334 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 69 data
+2018-04-13 16:17:31.537 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 70 data
+2018-04-13 16:17:31.740 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 71 data
+2018-04-13 16:17:31.952 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 72 data
+2018-04-13 16:17:32.155 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 73 data
+2018-04-13 16:17:32.280 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:59
+2018-04-13 16:17:32.327 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"91b7d3f8d77c
+2018-04-13 16:17:32.358 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 74 data
+2018-04-13 16:17:32.561 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 75 data
+2018-04-13 16:17:32.764 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 76 data
+2018-04-13 16:17:32.967 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 77 data
+2018-04-13 16:17:33.170 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 78 data
+2018-04-13 16:17:33.327 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"af534cbe7b34
+2018-04-13 16:17:33.374 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 79 data
+2018-04-13 16:17:33.577 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 80 data
+2018-04-13 16:17:33.780 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 81 data
+2018-04-13 16:17:33.983 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 82 data
+2018-04-13 16:17:34.188 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 83 data
+2018-04-13 16:17:34.328 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"9c7aee1a0e31
+2018-04-13 16:17:34.391 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 84 data
+2018-04-13 16:17:34.594 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 85 data
+2018-04-13 16:17:34.797 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 86 data
+2018-04-13 16:17:35.000 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 87 data
+2018-04-13 16:17:35.203 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 88 data
+2018-04-13 16:17:35.281 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:71
+2018-04-13 16:17:35.328 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"158f70f47ebe
+2018-04-13 16:17:35.406 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 89 data
+2018-04-13 16:17:35.609 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 90 data
+2018-04-13 16:17:35.813 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 91 data
+2018-04-13 16:17:36.016 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 92 data
+2018-04-13 16:17:36.219 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 93 data
+2018-04-13 16:17:36.328 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"1485cf526f5d
+2018-04-13 16:17:36.422 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 94 data
+2018-04-13 16:17:36.625 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 95 data
+2018-04-13 16:17:36.827 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 96 data
+2018-04-13 16:17:37.030 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 97 data
+2018-04-13 16:17:37.233 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 98 data
+2018-04-13 16:17:37.342 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"49e65017ee8a
+2018-04-13 16:17:37.436 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 99 data
+2018-04-13 16:17:37.639 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 100 data
+2018-04-13 16:17:37.842 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 101 data
+2018-04-13 16:17:38.046 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 102 data
+2018-04-13 16:17:38.249 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 103 data
+2018-04-13 16:17:38.296 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:83
+2018-04-13 16:17:38.343 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"71f1de855e5d
+2018-04-13 16:17:38.452 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 104 data
+2018-04-13 16:17:38.655 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 105 data
+2018-04-13 16:17:38.858 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 106 data
+2018-04-13 16:17:39.061 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 107 data
+2018-04-13 16:17:39.264 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 108 data
+2018-04-13 16:17:39.343 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"2f9773549cf5
+2018-04-13 16:17:39.468 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 109 data
+2018-04-13 16:17:39.671 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 110 data
+2018-04-13 16:17:39.874 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 111 data
+2018-04-13 16:17:40.077 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 112 data
+2018-04-13 16:17:40.280 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 113 data
+2018-04-13 16:17:40.343 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"ffb2decf6b0e
+2018-04-13 16:17:40.483 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 114 data
+2018-04-13 16:17:40.687 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 115 data
+2018-04-13 16:17:40.890 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 116 data
+2018-04-13 16:17:41.093 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 117 data
+2018-04-13 16:17:41.296 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:94
+2018-04-13 16:17:41.296 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 118 data
+2018-04-13 16:17:41.343 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"52f02e734812
+2018-04-13 16:17:41.499 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 119 data
+2018-04-13 16:17:41.702 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 120 data
+2018-04-13 16:17:41.905 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 121 data
+2018-04-13 16:17:42.109 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 122 data
+2018-04-13 16:17:42.312 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 123 data
+2018-04-13 16:17:42.343 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"72c33af8c971
+2018-04-13 16:17:42.515 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 124 data
+2018-04-13 16:17:42.726 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 125 data
+2018-04-13 16:17:42.930 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 126 data
+2018-04-13 16:17:43.133 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 127 data
+2018-04-13 16:17:43.336 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 128 data
+2018-04-13 16:17:43.351 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"42d2073aee20
+2018-04-13 16:17:43.539 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 129 data
+2018-04-13 16:17:43.742 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 130 data
+2018-04-13 16:17:43.945 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 131 data
+2018-04-13 16:17:44.148 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 132 data
+2018-04-13 16:17:44.305 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:106
+2018-04-13 16:17:44.352 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 133 data
+2018-04-13 16:17:44.352 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"32aa444397c3
+2018-04-13 16:17:44.555 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 134 data
+2018-04-13 16:17:44.758 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 135 data
+2018-04-13 16:17:44.961 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 136 data
+2018-04-13 16:17:45.164 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 137 data
+2018-04-13 16:17:45.352 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"0cf695e4b952
+2018-04-13 16:17:45.367 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 138 data
+2018-04-13 16:17:45.570 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 139 data
+2018-04-13 16:17:45.774 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 140 data
+2018-04-13 16:17:45.977 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 141 data
+2018-04-13 16:17:46.180 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 142 data
+2018-04-13 16:17:46.352 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"89eeee9c4374
+2018-04-13 16:17:46.383 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 143 data
+2018-04-13 16:17:46.586 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 144 data
+2018-04-13 16:17:46.789 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 145 data
+2018-04-13 16:17:46.999 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 146 data
+2018-04-13 16:17:47.202 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 147 data
+2018-04-13 16:17:47.312 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:118
+2018-04-13 16:17:47.358 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"46880c5af17e
+2018-04-13 16:17:47.405 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 148 data
+2018-04-13 16:17:47.608 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 149 data
+2018-04-13 16:17:47.812 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 150 data
+2018-04-13 16:17:48.015 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 151 data
+2018-04-13 16:17:48.218 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 152 data
+2018-04-13 16:17:48.359 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"0c9d19ce7747
+2018-04-13 16:17:48.421 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 153 data
+2018-04-13 16:17:48.624 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 154 data
+2018-04-13 16:17:48.827 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 155 data
+2018-04-13 16:17:49.031 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 156 data
+2018-04-13 16:17:49.234 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 157 data
+2018-04-13 16:17:49.359 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"dbff709ef3c2
+2018-04-13 16:17:49.437 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 158 data
+2018-04-13 16:17:49.640 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 159 data
+2018-04-13 16:17:49.843 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 160 data
+2018-04-13 16:17:50.046 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 161 data
+2018-04-13 16:17:50.249 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 162 data
+2018-04-13 16:17:50.312 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:130
+2018-04-13 16:17:50.359 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"072267797b2e
+2018-04-13 16:17:50.453 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 163 data
+2018-04-13 16:17:50.656 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 164 data
+2018-04-13 16:17:50.859 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 165 data
+2018-04-13 16:17:51.062 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 166 data
+2018-04-13 16:17:51.265 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 167 data
+2018-04-13 16:17:51.359 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"4d5dba8ea66d
+2018-04-13 16:17:51.468 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 168 data
+2018-04-13 16:17:51.671 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 169 data
+2018-04-13 16:17:51.875 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 170 data
+2018-04-13 16:17:52.078 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 171 data
+2018-04-13 16:17:52.281 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 172 data
+2018-04-13 16:17:52.359 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"67308238361d
+2018-04-13 16:17:52.484 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 173 data
+2018-04-13 16:17:52.687 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 174 data
+2018-04-13 16:17:52.890 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 175 data
+2018-04-13 16:17:53.094 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 176 data
+2018-04-13 16:17:53.297 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 177 data
+2018-04-13 16:17:53.312 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:142
+2018-04-13 16:17:53.359 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"83a740ed7878
+2018-04-13 16:17:53.500 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 178 data
+2018-04-13 16:17:53.703 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 179 data
+2018-04-13 16:17:53.906 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 180 data
+2018-04-13 16:17:54.109 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 181 data
+2018-04-13 16:17:54.312 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 182 data
+2018-04-13 16:17:54.359 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"2db4bbe5f8f9
+2018-04-13 16:17:54.516 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 183 data
+2018-04-13 16:17:54.719 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 184 data
+2018-04-13 16:17:54.922 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 185 data
+2018-04-13 16:17:55.125 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 186 data
+2018-04-13 16:17:55.328 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 187 data
+2018-04-13 16:17:55.359 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"26af1473a099
+2018-04-13 16:17:55.538 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 188 data
+2018-04-13 16:17:55.741 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 189 data
+2018-04-13 16:17:55.944 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 190 data
+2018-04-13 16:17:56.147 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 191 data
+2018-04-13 16:17:56.319 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:153
+2018-04-13 16:17:56.350 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 192 data
+2018-04-13 16:17:56.366 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"f0d1af33c97f
+2018-04-13 16:17:56.553 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 193 data
+2018-04-13 16:17:56.756 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 194 data
+2018-04-13 16:17:56.968 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 195 data
+2018-04-13 16:17:57.171 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 196 data
+2018-04-13 16:17:57.374 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"c0ac377c5779
+2018-04-13 16:17:57.374 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 197 data
+2018-04-13 16:17:57.577 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 198 data
+2018-04-13 16:17:57.781 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 199 data
+2018-04-13 16:17:57.984 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 200 data
+2018-04-13 16:17:58.187 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 201 data
+2018-04-13 16:17:58.374 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"bae2ecbed5ee
+2018-04-13 16:17:58.390 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 202 data
+2018-04-13 16:17:58.593 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 203 data
+2018-04-13 16:17:58.796 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 204 data
+2018-04-13 16:17:58.999 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 205 data
+2018-04-13 16:17:59.203 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 206 data
+2018-04-13 16:17:59.328 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:165
+2018-04-13 16:17:59.375 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"901b7b42b91d
+2018-04-13 16:17:59.406 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 207 data
+2018-04-13 16:17:59.609 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 208 data
+2018-04-13 16:17:59.812 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 209 data
+2018-04-13 16:18:00.015 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 210 data
+2018-04-13 16:18:00.218 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 211 data
+2018-04-13 16:18:00.375 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"a15c9106bc33
+2018-04-13 16:18:00.422 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 212 data
+2018-04-13 16:18:00.625 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 213 data
+2018-04-13 16:18:00.828 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 214 data
+2018-04-13 16:18:01.031 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 215 data
+2018-04-13 16:18:01.234 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 216 data
+2018-04-13 16:18:01.375 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"5e741bcb72aa
+2018-04-13 16:18:01.437 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 217 data
+2018-04-13 16:18:01.640 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 218 data
+2018-04-13 16:18:01.843 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 219 data
+2018-04-13 16:18:02.047 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 220 data
+2018-04-13 16:18:02.250 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 221 data
+2018-04-13 16:18:02.328 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:177
+2018-04-13 16:18:02.375 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"2fe201f63fa7
+2018-04-13 16:18:02.453 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 222 data
+2018-04-13 16:18:02.656 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 223 data
+2018-04-13 16:18:02.859 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 224 data
+2018-04-13 16:18:03.074 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 225 data
+2018-04-13 16:18:03.277 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 226 data
+2018-04-13 16:18:03.386 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"269521d42d6c
+2018-04-13 16:18:03.480 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 227 data
+2018-04-13 16:18:03.683 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 228 data
+2018-04-13 16:18:03.886 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 229 data
+2018-04-13 16:18:04.089 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 230 data
+2018-04-13 16:18:04.292 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 231 data
+2018-04-13 16:18:04.386 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"c114a0cbed50
+2018-04-13 16:18:04.492 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 232 data
+2018-04-13 16:18:04.704 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 233 data
+2018-04-13 16:18:04.907 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 234 data
+2018-04-13 16:18:05.110 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 235 data
+2018-04-13 16:18:05.313 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 236 data
+2018-04-13 16:18:05.329 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:189
+2018-04-13 16:18:05.392 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"606d10ebed67
+2018-04-13 16:18:05.517 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 237 data
+2018-04-13 16:18:05.720 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 238 data
+2018-04-13 16:18:05.923 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 239 data
+2018-04-13 16:18:06.129 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 240 data
+2018-04-13 16:18:06.332 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 241 data
+2018-04-13 16:18:06.395 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"08a9977825e3
+2018-04-13 16:18:06.535 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 242 data
+2018-04-13 16:18:06.738 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 243 data
+2018-04-13 16:18:06.939 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 244 data
+2018-04-13 16:18:07.142 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 245 data
+2018-04-13 16:18:07.345 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 246 data
+2018-04-13 16:18:07.407 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"d843c7170152
+2018-04-13 16:18:07.548 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 247 data
+2018-04-13 16:18:07.751 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 248 data
+2018-04-13 16:18:07.954 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 249 data
+2018-04-13 16:18:08.157 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 250 data
+2018-04-13 16:18:08.329 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:200
+2018-04-13 16:18:08.361 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 251 data
+2018-04-13 16:18:08.407 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"f3d866f25484
+2018-04-13 16:18:08.564 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 252 data
+2018-04-13 16:18:08.776 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 253 data
+2018-04-13 16:18:08.980 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 254 data
+2018-04-13 16:18:09.183 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 255 data
+2018-04-13 16:18:09.386 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 256 data
+2018-04-13 16:18:09.417 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"6f52d9630ba5
+2018-04-13 16:18:09.589 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 257 data
+2018-04-13 16:18:09.792 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 258 data
+2018-04-13 16:18:09.995 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 259 data
+2018-04-13 16:18:10.198 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 260 data
+2018-04-13 16:18:10.402 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 261 data
+2018-04-13 16:18:10.417 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"3368d6b11cd7
+2018-04-13 16:18:10.605 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 262 data
+2018-04-13 16:18:10.808 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 263 data
+2018-04-13 16:18:11.011 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 264 data
+2018-04-13 16:18:11.214 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 265 data
+2018-04-13 16:18:11.339 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:212
+2018-04-13 16:18:11.417 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 266 data
+2018-04-13 16:18:11.417 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"f7657b1f844f
+2018-04-13 16:18:11.620 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 267 data
+2018-04-13 16:18:11.828 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 268 data
+2018-04-13 16:18:12.032 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 269 data
+2018-04-13 16:18:12.235 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 270 data
+2018-04-13 16:18:12.422 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"e71a3afc9625
+2018-04-13 16:18:12.438 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 271 data
+2018-04-13 16:18:12.641 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 272 data
+2018-04-13 16:18:12.844 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 273 data
+2018-04-13 16:18:13.047 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 274 data
+2018-04-13 16:18:13.251 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 275 data
+2018-04-13 16:18:13.422 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"d50d2ef37873
+2018-04-13 16:18:13.454 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 276 data
+2018-04-13 16:18:13.657 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 277 data
+2018-04-13 16:18:13.860 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 278 data
+2018-04-13 16:18:14.063 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 279 data
+2018-04-13 16:18:14.266 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 280 data
+2018-04-13 16:18:14.344 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:224
+2018-04-13 16:18:14.422 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"eb1b1741fe2d
+2018-04-13 16:18:14.469 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 281 data
+2018-04-13 16:18:14.672 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 282 data
+2018-04-13 16:18:14.876 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 283 data
+2018-04-13 16:18:15.079 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 284 data
+2018-04-13 16:18:15.282 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 285 data
+2018-04-13 16:18:15.423 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"d80b4bdd6e90
+2018-04-13 16:18:15.485 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 286 data
+2018-04-13 16:18:15.688 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 287 data
+2018-04-13 16:18:15.891 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 288 data
+2018-04-13 16:18:16.095 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 289 data
+2018-04-13 16:18:16.298 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 290 data
+2018-04-13 16:18:16.423 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"191c2faf9ddc
+2018-04-13 16:18:16.501 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 291 data
+2018-04-13 16:18:16.704 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 292 data
+2018-04-13 16:18:16.907 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 293 data
+2018-04-13 16:18:17.110 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 294 data
+2018-04-13 16:18:17.313 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 295 data
+2018-04-13 16:18:17.345 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:236
+2018-04-13 16:18:17.423 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"cd3be108715d
+2018-04-13 16:18:17.517 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 296 data
+2018-04-13 16:18:17.720 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 297 data
+2018-04-13 16:18:17.923 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 298 data
+2018-04-13 16:18:18.126 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 299 data
+2018-04-13 16:18:18.329 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 300 data
+2018-04-13 16:18:18.423 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"27e7e93a8d7f
+2018-04-13 16:18:18.532 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 301 data
+2018-04-13 16:18:18.735 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 302 data
+2018-04-13 16:18:18.939 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 303 data
+2018-04-13 16:18:19.142 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 304 data
+2018-04-13 16:18:19.345 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 305 data
+2018-04-13 16:18:19.423 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"774ebdb86efc
+2018-04-13 16:18:19.548 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 306 data
+2018-04-13 16:18:19.751 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 307 data
+2018-04-13 16:18:19.954 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 308 data
+2018-04-13 16:18:20.158 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 309 data
+2018-04-13 16:18:20.345 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:247
+2018-04-13 16:18:20.361 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 310 data
+2018-04-13 16:18:20.423 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"703f5e8d4d41
+2018-04-13 16:18:20.565 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 311 data
+2018-04-13 16:18:20.768 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 312 data
+2018-04-13 16:18:20.971 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 313 data
+2018-04-13 16:18:21.174 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 314 data
+2018-04-13 16:18:21.377 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 315 data
+2018-04-13 16:18:21.424 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"96b5536a6a8a
+2018-04-13 16:18:21.580 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 316 data
+2018-04-13 16:18:21.783 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 317 data
+2018-04-13 16:18:21.985 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 318 data
+2018-04-13 16:18:22.188 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 319 data
+2018-04-13 16:18:22.391 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 320 data
+2018-04-13 16:18:22.438 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"edb7456043ab
+2018-04-13 16:18:22.595 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 321 data
+2018-04-13 16:18:22.798 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 322 data
+2018-04-13 16:18:23.001 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 323 data
+2018-04-13 16:18:23.204 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 324 data
+2018-04-13 16:18:23.360 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:259
+2018-04-13 16:18:23.407 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 325 data
+2018-04-13 16:18:23.439 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"802e893a71b5
+2018-04-13 16:18:23.610 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 326 data
+2018-04-13 16:18:23.814 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 327 data
+2018-04-13 16:18:24.017 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 328 data
+2018-04-13 16:18:24.220 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 329 data
+2018-04-13 16:18:24.423 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 330 data
+2018-04-13 16:18:24.439 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"bdadcfa9c201
+2018-04-13 16:18:24.626 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 331 data
+2018-04-13 16:18:24.829 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 332 data
+2018-04-13 16:18:25.033 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 333 data
+2018-04-13 16:18:25.236 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 334 data
+2018-04-13 16:18:25.439 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 335 data
+2018-04-13 16:18:25.439 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"3f16ee52afb0
+2018-04-13 16:18:25.642 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 336 data
+2018-04-13 16:18:25.845 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 337 data
+2018-04-13 16:18:26.048 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 338 data
+2018-04-13 16:18:26.251 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 339 data
+2018-04-13 16:18:26.361 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:271
+2018-04-13 16:18:26.439 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"1e2477ede524
+2018-04-13 16:18:26.454 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 340 data
+2018-04-13 16:18:26.664 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 341 data
+2018-04-13 16:18:26.876 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 342 data
+2018-04-13 16:18:27.080 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 343 data
+2018-04-13 16:18:27.283 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 344 data
+2018-04-13 16:18:27.439 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"c6469407f04c
+2018-04-13 16:18:27.486 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 345 data
+2018-04-13 16:18:27.689 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 346 data
+2018-04-13 16:18:27.892 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 347 data
+2018-04-13 16:18:28.095 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 348 data
+2018-04-13 16:18:28.298 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 349 data
+2018-04-13 16:18:28.439 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"34a1d71f3a14
+2018-04-13 16:18:28.502 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 350 data
+2018-04-13 16:18:28.705 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 351 data
+2018-04-13 16:18:28.908 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 352 data
+2018-04-13 16:18:29.111 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 353 data
+2018-04-13 16:18:29.314 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 354 data
+2018-04-13 16:18:29.361 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:283
+2018-04-13 16:18:29.439 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"5037dd777eaf
+2018-04-13 16:18:29.517 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 355 data
+2018-04-13 16:18:29.721 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 356 data
+2018-04-13 16:18:29.924 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 357 data
+2018-04-13 16:18:30.127 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 358 data
+2018-04-13 16:18:30.330 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 359 data
+2018-04-13 16:18:30.439 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"8a6e496cde57
+2018-04-13 16:18:30.533 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 360 data
+2018-04-13 16:18:30.736 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 361 data
+2018-04-13 16:18:30.939 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 362 data
+2018-04-13 16:18:31.143 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 363 data
+2018-04-13 16:18:31.346 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 364 data
+2018-04-13 16:18:31.439 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"4804163df1b3
+2018-04-13 16:18:31.549 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 365 data
+2018-04-13 16:18:31.752 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 366 data
+2018-04-13 16:18:31.954 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 367 data
+2018-04-13 16:18:32.157 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 368 data
+2018-04-13 16:18:32.360 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 369 data
+2018-04-13 16:18:32.376 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:295
+2018-04-13 16:18:32.454 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"8184607dac76
+2018-04-13 16:18:32.563 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 370 data
+2018-04-13 16:18:32.766 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 371 data
+2018-04-13 16:18:32.970 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 372 data
+2018-04-13 16:18:33.173 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 373 data
+2018-04-13 16:18:33.379 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 374 data
+2018-04-13 16:18:33.457 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"c6a8c689c777
+2018-04-13 16:18:33.582 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 375 data
+2018-04-13 16:18:33.786 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 376 data
+2018-04-13 16:18:33.989 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 377 data
+2018-04-13 16:18:34.192 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 378 data
+2018-04-13 16:18:34.395 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 379 data
+2018-04-13 16:18:34.457 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"b70ebfe57a63
+2018-04-13 16:18:34.614 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 380 data
+2018-04-13 16:18:34.817 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 381 data
+2018-04-13 16:18:35.020 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 382 data
+2018-04-13 16:18:35.223 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 383 data
+2018-04-13 16:18:35.379 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:306
+2018-04-13 16:18:35.426 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 384 data
+2018-04-13 16:18:35.458 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"1cf2fe8a73a8
+2018-04-13 16:18:35.629 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 385 data
+2018-04-13 16:18:35.833 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 386 data
+2018-04-13 16:18:36.036 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 387 data
+2018-04-13 16:18:36.239 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 388 data
+2018-04-13 16:18:36.442 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 389 data
+2018-04-13 16:18:36.458 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"1108e008a8d1
+2018-04-13 16:18:36.645 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 390 data
+2018-04-13 16:18:36.845 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 391 data
+2018-04-13 16:18:37.048 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 392 data
+2018-04-13 16:18:37.251 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 393 data
+2018-04-13 16:18:37.455 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 394 data
+2018-04-13 16:18:37.470 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"2f8c00034ba7
+2018-04-13 16:18:37.658 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 395 data
+2018-04-13 16:18:37.861 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 396 data
+2018-04-13 16:18:38.068 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 397 data
+2018-04-13 16:18:38.271 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 398 data
+2018-04-13 16:18:38.381 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:318
+2018-04-13 16:18:38.475 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 399 data
+2018-04-13 16:18:38.475 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"3d4d76864721
+2018-04-13 16:18:38.678 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 400 data
+2018-04-13 16:18:38.881 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 401 data
+2018-04-13 16:18:39.096 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 402 data
+2018-04-13 16:18:39.299 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 403 data
+2018-04-13 16:18:39.487 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"324c0863a653
+2018-04-13 16:18:39.502 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 404 data
+2018-04-13 16:18:39.706 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 405 data
+2018-04-13 16:18:39.909 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 406 data
+2018-04-13 16:18:40.112 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 407 data
+2018-04-13 16:18:40.315 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 408 data
+2018-04-13 16:18:40.487 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"03a755936983
+2018-04-13 16:18:40.518 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 409 data
+2018-04-13 16:18:40.732 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 410 data
+2018-04-13 16:18:40.935 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 411 data
+2018-04-13 16:18:41.138 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 412 data
+2018-04-13 16:18:41.341 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 413 data
+2018-04-13 16:18:41.388 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:330
+2018-04-13 16:18:41.497 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"41824fcee354
+2018-04-13 16:18:41.544 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 414 data
+2018-04-13 16:18:41.747 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 415 data
+2018-04-13 16:18:41.951 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 416 data
+2018-04-13 16:18:42.154 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 417 data
+2018-04-13 16:18:42.357 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 418 data
+2018-04-13 16:18:42.505 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"ea855067a7e7
+2018-04-13 16:18:42.568 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 419 data
+2018-04-13 16:18:42.771 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 420 data
+2018-04-13 16:18:42.974 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 421 data
+2018-04-13 16:18:43.177 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 422 data
+2018-04-13 16:18:43.380 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 423 data
+2018-04-13 16:18:43.505 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"fe889b664e46
+2018-04-13 16:18:43.583 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 424 data
+2018-04-13 16:18:43.786 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 425 data
+2018-04-13 16:18:43.990 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 426 data
+2018-04-13 16:18:44.193 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 427 data
+2018-04-13 16:18:44.396 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 428 data
+2018-04-13 16:18:44.396 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:341
+2018-04-13 16:18:44.505 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"f8babd14d4fa
+2018-04-13 16:18:44.599 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 429 data
+2018-04-13 16:18:44.802 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 430 data
+2018-04-13 16:18:45.005 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 431 data
+2018-04-13 16:18:45.208 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 432 data
+2018-04-13 16:18:45.412 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 433 data
+2018-04-13 16:18:45.505 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"c0501405cf02
+2018-04-13 16:18:45.615 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 434 data
+2018-04-13 16:18:45.818 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 435 data
+2018-04-13 16:18:46.021 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 436 data
+2018-04-13 16:18:46.224 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 437 data
+2018-04-13 16:18:46.427 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 438 data
+2018-04-13 16:18:46.506 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"779a20bbd9a2
+2018-04-13 16:18:46.631 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 439 data
+2018-04-13 16:18:46.841 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 440 data
+2018-04-13 16:18:47.044 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 441 data
+2018-04-13 16:18:47.247 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 442 data
+2018-04-13 16:18:47.404 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:353
+2018-04-13 16:18:47.451 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 443 data
+2018-04-13 16:18:47.513 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"0dae35724cd5
+2018-04-13 16:18:47.654 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 444 data
+2018-04-13 16:18:47.857 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 445 data
+2018-04-13 16:18:48.060 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 446 data
+2018-04-13 16:18:48.263 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 447 data
+2018-04-13 16:18:48.466 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 448 data
+2018-04-13 16:18:48.513 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"128da18b0f9e
+2018-04-13 16:18:48.669 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 449 data
+2018-04-13 16:18:48.873 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 450 data
+2018-04-13 16:18:49.076 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 451 data
+2018-04-13 16:18:49.279 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 452 data
+2018-04-13 16:18:49.482 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 453 data
+2018-04-13 16:18:49.513 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"b541101995a3
+2018-04-13 16:18:49.685 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 454 data
+2018-04-13 16:18:49.888 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 455 data
+2018-04-13 16:18:50.092 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 456 data
+2018-04-13 16:18:50.311 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 457 data
+2018-04-13 16:18:50.420 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:365
+2018-04-13 16:18:50.530 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"3e4fc6556e31
+2018-04-13 16:18:50.530 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 458 data
+2018-04-13 16:18:50.748 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 459 data
+2018-04-13 16:18:50.951 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 460 data
+2018-04-13 16:18:51.155 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 461 data
+2018-04-13 16:18:51.358 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 462 data
+2018-04-13 16:18:51.530 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"ef30579b5354
+2018-04-13 16:18:51.561 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 463 data
+2018-04-13 16:18:51.811 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 464 data
+2018-04-13 16:18:52.030 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 465 data
+2018-04-13 16:18:52.280 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 466 data
+2018-04-13 16:18:52.483 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 467 data
+2018-04-13 16:18:52.530 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"ebc8d3f54122
+2018-04-13 16:18:52.696 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 468 data
+2018-04-13 16:18:52.899 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 469 data
+2018-04-13 16:18:53.103 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 470 data
+2018-04-13 16:18:53.306 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 471 data
+2018-04-13 16:18:53.431 [pool-1-thread-3] INFO  com.av.controller.WebRelevantController - queue size:376
+2018-04-13 16:18:53.509 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 472 data
+2018-04-13 16:18:53.540 [pool-1-thread-2] INFO  com.av.controller.WebRelevantController - pop data 
+[{"id":"0140723680d4
+2018-04-13 16:18:53.712 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 473 data
+2018-04-13 16:18:53.915 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 474 data
+2018-04-13 16:18:54.119 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 475 data
+2018-04-13 16:18:54.322 [pool-1-thread-1] INFO  com.av.controller.WebRelevantController - push 476 data

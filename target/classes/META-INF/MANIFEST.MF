@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ArticleVoting
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ko
+Implementation-Vendor-Id: ArticleVoting
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/ArticleVotin
+ g/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
